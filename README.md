@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KSzufnara
 - 👀 I’m interested in .NET
-- 🌱 I’m currently learning ASP.NET
-- 💞️ I’m looking to collaborate on MVC
+- 🌱 I’m currently learning TS, Angular
+- 💞️ I’m looking to collaborate on .NET
 - 📫 How to reach me: k.szufnara@tlc.eu
 
 <!---
